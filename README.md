@@ -1,0 +1,2 @@
+# auroramcp
+aurora mcp set
